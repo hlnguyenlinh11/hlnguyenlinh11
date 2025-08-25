@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Thi Hong Linh Nguyen
+- 👋 Hi, I’m Linh Nguyen
 - 👀 My major is Computer Science
-- 🌱 I’m currently learning at University of Texas at Arlington 
+- 🌱 I’m currently learning at the University of Texas at Arlington 
 - 📫 You can email me at linhkim1503@gmail.com
 
 <!---
